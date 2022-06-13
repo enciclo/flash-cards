@@ -4,6 +4,7 @@
 
 def main():
     print("Hello, my first Pet Project")
+    print("Any Changed Action")
 
 
 if __name__ == "__main__":
